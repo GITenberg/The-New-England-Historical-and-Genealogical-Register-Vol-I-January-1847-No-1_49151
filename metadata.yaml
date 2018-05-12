@@ -1,10 +1,14 @@
 _repo: The-New-England-Historical-and-Genealogical-Register-Vol-I-January-1847-No-1_49151
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Cogswell, William
       gutenberg_agent_id: '43440'
       url: http://www.gutenberg.org/2009/agents/43440
+covers:
+- cover_type: archival
+  image_path: 49151-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49151#The-New-England-Historical-and-Genealogical-Register-Vol-I-January-1847-No-1
 gutenberg_issued: '2015-06-06'
 gutenberg_type: Text
 identifiers:
